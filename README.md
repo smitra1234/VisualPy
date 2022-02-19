@@ -34,3 +34,8 @@ It allows anyone create beautiful charts from their data with only a few clicks,
 2) Install all requirements using: <br> ```pip install -r requirements.txt``` <br>
 3) From the terminal within the directory <br> ```streamlit run datavisualapp.py```
 
+
+Visit the app here:
+
+https://share.streamlit.io/smitra1234/visualpy/main/datavisualapp.py
+
