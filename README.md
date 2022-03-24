@@ -11,7 +11,7 @@ It allows anyone create beautiful charts from their data with only a few clicks,
  function to other proprietary software such as PowerBI etc.
  <br>
  
- In its current state, OpenCharts can be used to create: <br>
+ In its current state, VisualPY can be used to create: <br>
  1) Density contour
  2) Histogram
  3) Box plots
