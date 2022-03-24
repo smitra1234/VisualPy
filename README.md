@@ -39,3 +39,6 @@ Visit the app here:
 
 https://share.streamlit.io/smitra1234/visualpy/main/datavisualapp.py
 
+Presentation of synopsis:
+https://www.canva.com/design/DAE62oV6ZqM/VN3ZTss-GNqWWE2SR90HWg/edit?utm_content=DAE62oV6ZqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
