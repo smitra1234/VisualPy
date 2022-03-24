@@ -1,32 +1,7 @@
 # VisualPy
 
 
-VisualPy is a data visualization 
-web app created using Streamlit, 
-Pandas and Plotly Express.<br>
-
-<hr>
-
-It allows anyone create beautiful charts from their data with only a few clicks, and is similar in
- function to other proprietary software such as PowerBI etc.
- <br>
- 
- In its current state, VisualPY can be used to create: <br>
- 1) Density contour
- 2) Histogram
- 3) Box plots
- 4) Violin plots
-
- 
- These charts can be exported in 
- different formats such as:<br>
- 
- 1) PNG.
- 2) JPEG.
- 3) SVG.
- 4) PDF.
- 5) HTML.
- 6) JSON.
+Final Project of Shayon Mitra Don Bosco SChool, CLass12
 
 
 ## How to run the app
