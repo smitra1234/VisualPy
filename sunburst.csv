@@ -1,0 +1,17 @@
+,Segment,Customer Origin,First Click,Coupon Usage,Customer Count
+0,Website Customers,Ad Platform,Regular Item,Used Coupon,458
+1,Website Customers,Ad Platform,Regular Item,Used Coupon,52
+2,Website Customers,Ad Platform,Regular Item,No Coupon,216
+3,Website Customers,Ad Platform,Regular Item,No Coupon,441
+4,Website Customers,Ad Platform,Discounted Item,Used Coupon,558
+5,Website Customers,Ad Platform,Discounted Item,Used Coupon,653
+6,Website Customers,Ad Platform,Discounted Item,No Coupon,288
+7,Website Customers,Ad Platform,Discounted Item,No Coupon,115
+8,Website Customers,Organic,Regular Item,Used Coupon,775
+9,Website Customers,Organic,Regular Item,Used Coupon,513
+10,Website Customers,Organic,Regular Item,No Coupon,775
+11,Website Customers,Organic,Regular Item,No Coupon,147
+12,Website Customers,Organic,Discounted Item,Used Coupon,145
+13,Website Customers,Organic,Discounted Item,Used Coupon,268
+14,Website Customers,Organic,Discounted Item,No Coupon,602
+15,Website Customers,Organic,Discounted Item,No Coupon,594
